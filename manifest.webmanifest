@@ -1,0 +1,16 @@
+{
+  "name": "히로시마 여행 지도",
+  "short_name": "히로시마",
+  "description": "3/6~3/8 히로시마 여행 일정·지도·수첩",
+  "lang": "ko",
+  "start_url": "./map.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf2f3",
+  "theme_color": "#c8412b",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-512-mask.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
